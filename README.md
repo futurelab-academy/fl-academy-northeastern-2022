@@ -16,6 +16,7 @@
 * 3pm: Ideation - Project Kickoff - Work time
 * 6pm: Break
 * 8pm: Test time *(optional)*
+* 10pm: End
 
 ### 2022-07-27
 
@@ -25,6 +26,7 @@
 * 1pm: Work Time
 * 6pm: Break
 * 8pm: Test time
+* 11pm: End
 
 ### 2022-07-28
 
@@ -33,8 +35,9 @@
 * 12pm: Break
 * 1pm: Work Time
 * 5pm: Break
-* 7pm: Preparation
+* 7pm: Final Project Submission
 * 9pm: Project Presentations
+* 11pm: End
 
 ## Info
 
