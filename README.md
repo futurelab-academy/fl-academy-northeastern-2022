@@ -6,7 +6,7 @@
 
 ### 2022-07-25
 
-* 21:00 Meeting at Futurelab *- this is optional; you're welcome to check out the facade in the evening before we start the workshop*
+* 9pm: Meeting at Futurelab *- this is optional; you're welcome to check out the facade in the evening before we start the workshop*
 
 ### 2022-07-26
 
