@@ -10,7 +10,7 @@
 
 ### 2022-07-26
 
-* 10am: Welcome + Intro
+* 9:30am: Welcome + Intro
 * 11am: Museum highlight tour + break
 * 1:30pm: Facade as Medium / Tech Intro
 * 3pm: Ideation - Project Kickoff - Work time
